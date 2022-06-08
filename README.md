@@ -14,9 +14,9 @@ The project was made with the help of Dor Yahav, Unity Game Developer.
 
 ## Roadmap
 
-- Additional browser support
+- Add Shaders and sound effects
 
-- Add more integrations
+- UI & Backgrounds
 
 
 ## Run Locally
